@@ -1,4 +1,8 @@
-### Hi there 👋
+## AJMC2002
+##### ***Yo yo yo. 148-3 to the 3 to the 6 to the 9, representing the ABQ, what up, biatch?!***
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **AJMC2002/AJMC2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
