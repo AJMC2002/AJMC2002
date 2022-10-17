@@ -1,5 +1,4 @@
-## AJMC2002🀄
-##### ***Yo yo yo. 148-3 to the 3 to the 6 to the 9, representing the ABQ, what up, biatch?!***
+### ***Yo yo yo. 148-3 to the 3 to the 6 to the 9, representing the ABQ, what up, biatch?!***
 
 <!--START_SECTION:waka-->
 
