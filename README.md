@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 41 mins
+Total Time: 3 hrs 40 mins
 
 No activity tracked
 ```
