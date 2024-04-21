@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 hrs 41 mins
+Total Time: 24 hrs 48 mins
 
-typst      9 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.41 %
-Rust       8 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-OCaml      5 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
-Python     3 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-Lua        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+typst      9 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   36.19 %
+Rust       8 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.21 %
+Python     5 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
+Lua        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Text       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
