@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 49 hrs 1 min
+Total Time: 52 hrs 22 mins
 
-Rust          39 hrs 28 mins  ████████████████████░░░░░   80.24 %
-Python        5 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Bash          2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-TOML          1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-typst         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Rust          40 hrs 56 mins  ███████████████████▒░░░░░   77.83 %
+Python        6 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Bash          2 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+typst         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+TOML          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
