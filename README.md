@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 73 hrs 6 mins
+Total Time: 73 hrs 29 mins
 
-Rust          46 hrs 23 mins  ███████████████▓░░░░░░░░░   63.19 %
-Julia         16 hrs 16 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-Python        5 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Bash          2 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-TOML          1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Rust          45 hrs 23 mins  ███████████████▒░░░░░░░░░   61.51 %
+Julia         17 hrs 37 mins  ██████░░░░░░░░░░░░░░░░░░░   23.88 %
+Python        5 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Bash          2 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+TOML          1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
