@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 84 hrs 36 mins
+Total Time: 83 hrs 53 mins
 
-Julia         38 hrs 50 mins  ██████████░░░░░░░░░░░░░░░   39.77 %
-typst         26 hrs 41 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
-Other         13 hrs 3 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-Rust          13 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Python        2 hrs 16 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Julia         38 hrs 55 mins  █████████▓░░░░░░░░░░░░░░░   38.66 %
+typst         26 hrs 44 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
+Other         16 hrs 47 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+Rust          12 hrs 12 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+Python        2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
