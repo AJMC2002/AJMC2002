@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 74 hrs
+Total Time: 74 hrs 33 mins
 
-Other         46 hrs 7 mins   █████████▓░░░░░░░░░░░░░░░   38.40 %
-Julia         20 hrs 22 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-typst         19 hrs 17 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Rust          18 hrs 26 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-Objective-C   4 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Other         46 hrs 7 mins   █████████▓░░░░░░░░░░░░░░░   38.22 %
+Julia         20 hrs 22 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+typst         19 hrs 17 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Rust          18 hrs 26 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Objective-C   4 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
