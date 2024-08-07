@@ -3,12 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 54 mins
+Total Time: 32 mins
 
-Python     47 mins         ██████████████████████░░░   88.58 %
-livebook   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-conf       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python   32 mins         █████████████████████████   99.59 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
