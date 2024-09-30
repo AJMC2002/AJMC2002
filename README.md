@@ -3,10 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 44 mins
+Total Time: 1 hr 8 mins
 
-Rust    44 mins         ███████████████████████▓░   94.58 %
-Other   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Rust    44 mins         ███████████████▓░░░░░░░░░   62.47 %
+C++     24 mins         ████████▒░░░░░░░░░░░░░░░░   33.92 %
+Other   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
