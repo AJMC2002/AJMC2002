@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 1 min
+Total Time: 24 hrs 8 mins
 
-C++           7 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.93 %
-Python        4 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-Typst         4 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-Freefem       3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Rust          1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+C++           7 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+Python        4 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+Typst         4 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Freefem       2 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Rust          1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
 ```
 
 <!--END_SECTION:waka-->
