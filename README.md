@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 49 hrs 10 mins
+Total Time: 54 hrs 3 mins
 
-C++           24 hrs 33 mins  ████████████▒░░░░░░░░░░░░   49.47 %
-Python        7 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-C             6 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-CMake         3 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-Markdown      2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+C++           28 hrs 44 mins  █████████████▒░░░░░░░░░░░   52.67 %
+Python        7 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+C             6 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+CMake         3 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Markdown      2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
