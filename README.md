@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 17 mins
+Total Time: 8 hrs 11 mins
 
-Python      7 hrs 23 mins   ██████████████████░░░░░░░   71.59 %
-Rust        2 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
-C++         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Markdown    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-gitignore   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python      5 hrs 19 mins   ████████████████▒░░░░░░░░   64.74 %
+Rust        2 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   33.25 %
+C++         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Markdown    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+gitignore   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
