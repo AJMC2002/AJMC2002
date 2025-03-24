@@ -3,12 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 39 mins
+Total Time: 2 hrs 38 mins
 
-Rust       1 hr 50 mins    █████████████████▒░░░░░░░   69.63 %
-Python     44 mins         ███████░░░░░░░░░░░░░░░░░░   28.21 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Rust       1 hr 50 mins    █████████████████▒░░░░░░░   69.92 %
+Python     44 mins         ███████░░░░░░░░░░░░░░░░░░   28.33 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
