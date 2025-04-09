@@ -3,10 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 mins
+Total Time: 46 mins
 
-Python     16 mins         █████████████████████▒░░░   85.76 %
-Markdown   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+Freefem    26 mins         ██████████████▒░░░░░░░░░░   57.91 %
+Python     16 mins         █████████░░░░░░░░░░░░░░░░   36.10 %
+Markdown   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
