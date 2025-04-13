@@ -3,10 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 47 mins
+Total Time: 4 hrs 12 mins
 
-Freefem   1 hr 30 mins    █████████████████████░░░░   84.41 %
-Python    16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+Freefem   1 hr 30 mins    █████████░░░░░░░░░░░░░░░░   35.84 %
+Python    1 hr 20 mins    ████████░░░░░░░░░░░░░░░░░   31.91 %
+Typst     1 hr 19 mins    ████████░░░░░░░░░░░░░░░░░   31.67 %
+CSV       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
