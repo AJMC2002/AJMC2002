@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 37 hrs 11 mins
+Total Time: 31 hrs 5 mins
 
-Typst         18 hrs 24 mins  ████████████▒░░░░░░░░░░░░   49.50 %
-Freefem       7 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-M4            3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Rust          3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Haskell       2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Typst         12 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   39.08 %
+Freefem       7 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+M4            3 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Rust          3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Haskell       2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
 
 <!--END_SECTION:waka-->
