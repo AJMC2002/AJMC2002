@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 79 hrs 8 mins
+Total Time: 67 hrs 34 mins
 
-Python       47 hrs 5 mins   ██████████████▒░░░░░░░░░░   57.88 %
-Typst        8 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-YAML         6 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-Freefem      6 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Rust         2 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Python       37 hrs 52 mins  █████████████▓░░░░░░░░░░░   54.41 %
+Typst        8 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Freefem      6 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+YAML         5 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Rust         2 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
